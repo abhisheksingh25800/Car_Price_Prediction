@@ -1,11 +1,5 @@
 # Car_Price_Prediction
 
-ChatGPT
-You said:
-Overview of car price prediction model  
-ChatGPT said:
-Sure! Here’s a clear overview of a car price prediction model:
-
 Objective:
 Predict the price of a car based on its features (like brand, model, year, mileage, fuel type, transmission, etc.).
 
